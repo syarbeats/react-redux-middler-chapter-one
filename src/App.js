@@ -52,7 +52,8 @@ class App extends Component {
   render() {
     return (
       <div className="App">
-        <p>Learning redux middleware</p>
+        <h1>Learning redux middleware</h1>
+        <p>Check inspect element for checking store and state..</p>
       </div>
     );
   }
